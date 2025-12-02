@@ -1,6 +1,7 @@
 ## Dependences:
 
 ```sh
+npx create-expo-app@latest --template
 npm create gluestack@latest
 npm install --save-dev prettier
 npx expo install expo-font @expo-google-fonts/roboto
