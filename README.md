@@ -1,8 +1,8 @@
 ## Dependences:
 
 ```sh
-npm install --save-dev prettier
 npm create gluestack@latest
+npm install --save-dev prettier
 npx expo install expo-font @expo-google-fonts/roboto
 npx gluestack-ui init
 npm i react-dom
