@@ -2,7 +2,7 @@
 
 ```sh
 npx create-expo-app@latest --template
-npm create gluestack@latest
+npm create gluestack@latest # or install gluestack
 npm install --save-dev prettier
 npx expo install expo-font @expo-google-fonts/roboto
 npx gluestack-ui init
